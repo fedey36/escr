@@ -9,6 +9,15 @@
             "scriptFile": "Конфигурация.sbsl",
             "args": [],
             "method": "Скрипт"
+        },
+        {
+            "type": "sbsl",
+            "name": "Конфигурация.sbsl#Метаданные",
+            "stopOnEntry": false,
+            "request": "attach",
+            "scriptFile": "Конфигурация.sbsl",
+            "args": [],
+            "method": "Метаданные"
         }
     ]
 }
